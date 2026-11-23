@@ -88,13 +88,4 @@ python regresion_logistica_cancer_mama.py
 
 *(Si usas tu versión personalizada paso a paso, ejecuta `python programa1.py`.)*
 
-## Estructura del repositorio
 
-```text
-.
-├── regresion_logistica_cancer_mama.py   # Script completo con experimentos y 4 gráficas
-├── programa1.py                         # Implementación guiada paso a paso
-├── graficas_regresion_logistica/        # Gráficas PNG generadas por el script
-├── guion_video_regresion_logistica.md   # Guion estructurado para la presentación en video
-└── README.md                            # Documentación del proyecto
-```
